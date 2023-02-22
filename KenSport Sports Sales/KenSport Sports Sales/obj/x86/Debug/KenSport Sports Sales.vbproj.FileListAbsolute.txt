@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Sem 4\Application Programming\KenSport Sports Sales\KenSport Sports Sales\bin\Debug\KenSport Sports Sales.exe
+C:\Users\hp\Desktop\Sem 4\Application Programming\KenSport Sports Sales\KenSport Sports Sales\bin\Debug\KenSport Sports Sales.pdb
+C:\Users\hp\Desktop\Sem 4\Application Programming\KenSport Sports Sales\KenSport Sports Sales\bin\Debug\KenSport Sports Sales.xml
+C:\Users\hp\Desktop\Sem 4\Application Programming\KenSport Sports Sales\KenSport Sports Sales\obj\x86\Debug\KenSport_Sports_Sales.Form1.resources
+C:\Users\hp\Desktop\Sem 4\Application Programming\KenSport Sports Sales\KenSport Sports Sales\obj\x86\Debug\KenSport_Sports_Sales.Resources.resources
+C:\Users\hp\Desktop\Sem 4\Application Programming\KenSport Sports Sales\KenSport Sports Sales\obj\x86\Debug\KenSport Sports Sales.vbproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Sem 4\Application Programming\KenSport Sports Sales\KenSport Sports Sales\obj\x86\Debug\KenSport Sports Sales.exe
+C:\Users\hp\Desktop\Sem 4\Application Programming\KenSport Sports Sales\KenSport Sports Sales\obj\x86\Debug\KenSport Sports Sales.xml
+C:\Users\hp\Desktop\Sem 4\Application Programming\KenSport Sports Sales\KenSport Sports Sales\obj\x86\Debug\KenSport Sports Sales.pdb
+C:\Users\hp\Desktop\KenSport Sports Sales\KenSport Sports Sales\obj\x86\Debug\KenSport Sports Sales.exe
+C:\Users\hp\Desktop\KenSport Sports Sales\KenSport Sports Sales\obj\x86\Debug\KenSport Sports Sales.xml
+C:\Users\hp\Desktop\KenSport Sports Sales\KenSport Sports Sales\obj\x86\Debug\KenSport Sports Sales.pdb
